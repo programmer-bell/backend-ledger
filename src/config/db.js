@@ -1,5 +1,7 @@
 const mongoose = require("mongoose")
 
+
+// Database configration and connection
 async function connectDB() {
 
     try {
